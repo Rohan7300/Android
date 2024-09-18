@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "967080697725",
+    "project_id": "introductionfirebase-b0b47",
+    "storage_bucket": "introductionfirebase-b0b47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967080697725:android:65983e0c5b84981fe3f614",
+        "android_client_info": {
+          "package_name": "com.clebs.celerity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967080697725-7oltn9i5koor4p9h80u116aukhrh63th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5sHuNYN8nMCfqGC9ZwLo3Y7xf-BXgB8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967080697725-7oltn9i5koor4p9h80u116aukhrh63th.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "967080697725-pabafolk6nv50mff56nnq1d0mei52mun.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.IntroductionFireBase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967080697725:android:bce62967b537239de3f614",
+        "android_client_info": {
+          "package_name": "com.notify.testproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967080697725-7oltn9i5koor4p9h80u116aukhrh63th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5sHuNYN8nMCfqGC9ZwLo3Y7xf-BXgB8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967080697725-7oltn9i5koor4p9h80u116aukhrh63th.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "967080697725-pabafolk6nv50mff56nnq1d0mei52mun.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.IntroductionFireBase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
